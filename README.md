@@ -1,5 +1,6 @@
 Projeto utilizado para a estudo do framework 'REACT', entendendo como funciona a sua arquiterura , criação de componentes ou functions.
 Abordando tecnicas de design em css .
+Para criação foi utilizado a api TheMoviedb.org que forneceu todos os dados relacionados aos filmes .
 
 Para execução do projeto , bastar inserir os seguintes comandos :
   
